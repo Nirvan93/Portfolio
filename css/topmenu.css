@@ -159,7 +159,7 @@
 	-moz-transition: width .5s ease, background-color .5s ease;
 	 
 	margin: auto; /* center the cotent so it will sliding from the midddle to the left and right */
-	margin-top: 16px;
+	margin-top: 14px;
 }
 
 #menu-current:after
@@ -172,7 +172,7 @@
 	-moz-transition: width .5s ease, background-color .5s ease;
 	 
 	margin: auto; /* center the cotent so it will sliding from the midddle to the left and right */
-	margin-top: 16px;
+	margin-top: 14px;
 
 	width: 100%;
 	background: #FF8C48;
